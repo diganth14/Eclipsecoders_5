@@ -1,0 +1,18 @@
+{
+  "admin": {
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin"
+  },
+  "student1": {
+    "password": "9b8769a4a742959a2d0298c36fb70623f2dfacda8436237df08d8dfd5b37374c",
+    "role": "student"
+  },
+  "teacher1": {
+    "password": "63cb9c6fa2d65784658539a93ad47f2274a02ddff344537beb97bd399938ad22",
+    "role": "teacher"
+  },
+  "diganth": {
+    "password": "d447b28f214251f54fafcbeeff8746e8bf05d1c024f0bdb8a363470071cc5f78",
+    "role": "student"
+  }
+}
