@@ -1,0 +1,88 @@
+{
+  "placeholderImages": [
+    {
+      "id": "algebra-basics",
+      "description": "A book and blackboard representing basic algebra concepts.",
+      "imageUrl": "https://images.unsplash.com/photo-1754304342295-6094fe41e60c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxlZHVjYXRpb24lMjBtYXRofGVufDB8fHx8MTc2MjQ0OTkyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "education math"
+    },
+    {
+      "id": "calculus-video",
+      "description": "A visual representation of calculus graphs and functions.",
+      "imageUrl": "https://images.unsplash.com/photo-1754304342484-3256d59778e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjYWxjdWx1cyUyMGNoYXJ0fGVufDB8fHx8MTc2MjQ0OTkyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "calculus chart"
+    },
+    {
+      "id": "physics-notes",
+      "description": "Illustrations of physics concepts like atoms and gravity.",
+      "imageUrl": "https://images.unsplash.com/photo-1663669066662-1c696543b852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzY2llbmNlJTIwcGh5c2ljc3xlbnwwfHx8fDE3NjI0Mzg4NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science physics"
+    },
+    {
+      "id": "chemistry-paper",
+      "description": "Beakers and chemical formulas for a chemistry exam.",
+      "imageUrl": "https://images.unsplash.com/photo-1679077293678-a09a06376dae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzY2llbmNlJTIwY2hlbWlzdHJ5fGVufDB8fHx8MTc2MjM2Njg1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science chemistry"
+    },
+    {
+      "id": "biology-basics",
+      "description": "A microscope and DNA helix representing biology.",
+      "imageUrl": "https://images.unsplash.com/photo-1618468121353-aaa41d8fb2e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzY2llbmNlJTIwYmlvbG9neXxlbnwwfHx8fDE3NjI0MTY1MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science biology"
+    },
+    {
+      "id": "history-lesson",
+      "description": "Ancient scrolls and artifacts for a history lesson.",
+      "imageUrl": "https://images.unsplash.com/photo-1682270073849-7ae39cc14190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxoaXN0b3J5JTIwYW5jaWVudHxlbnwwfHx8fDE3NjIzNjY4NTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "history ancient"
+    },
+    {
+      "id": "geography-notes",
+      "description": "A world map and compass for geography studies.",
+      "imageUrl": "https://images.unsplash.com/photo-1730317196374-5209e38e4e40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxnZW9ncmFwaHklMjBtYXB8ZW58MHx8fHwxNzYyNDI4MDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "geography map"
+    },
+    {
+      "id": "literature-paper",
+      "description": "A stack of classic literature books.",
+      "imageUrl": "https://images.unsplash.com/photo-1604866830893-c13cafa515d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxib29rcyUyMGxpYnJhcnl8ZW58MHx8fHwxNzYyNDQ5OTIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "books library"
+    },
+    {
+      "id": "reasoning-puzzle",
+      "description": "Abstract shapes and puzzles representing logical reasoning.",
+      "imageUrl": "https://images.unsplash.com/photo-1709399610754-921b7a9ef3b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwdXp6bGUlMjBsb2dpY3xlbnwwfHx8fDE3NjIzODAyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "puzzle logic"
+    },
+    {
+      "id": "language-grammar",
+      "description": "A book focused on grammar and language studies.",
+      "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3cml0aW5nJTIwYm9va3xlbnwwfHx8fDE3NjIzODY1OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "writing book"
+    },
+    {
+      "id": "science-notes",
+      "description": "A collection of science-related items like beakers and a microscope.",
+      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzY2llbmNlfGVufDB8fHx8MTc2MjY0ODQ2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science lab"
+    },
+    {
+      "id": "physics-paper",
+      "description": "A diagram of particle physics on a blackboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1518103639485-61138ff4015d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwaHlzaWNzJTIwZXF1YXRpb258ZW58MHx8fHwxNzYyNjQ4NTAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "physics equation"
+    },
+    {
+      "id": "human-anatomy",
+      "description": "An anatomical model of a human torso.",
+      "imageUrl": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxodW1hbiUyMGFuYXRvbXl8ZW58MHx8fHwxNzYyNjQ4NTMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "human anatomy"
+    },
+    {
+      "id": "math-paper",
+      "description": "A piece of paper with mathematical formulas written on it.",
+      "imageUrl": "https://images.unsplash.com/photo-1542037104857-e6737333943a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXRoJTIwZm9ybXVsYXN8ZW58MHx8fHwxNzYyNjQ4NTUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "math formulas"
+    }
+  ]
+}
